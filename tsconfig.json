@@ -1,0 +1,12 @@
+{
+	"include": ["./**/*.ts"],
+	"exclude": ["**/node_modules/**", "./workspace/**"],
+	"compilerOptions": {
+		"target": "esnext",
+		"allowImportingTsExtensions": true,
+		"noEmit": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true
+	}
+}

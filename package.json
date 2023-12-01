@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "5.2.2"
+  }
+}
